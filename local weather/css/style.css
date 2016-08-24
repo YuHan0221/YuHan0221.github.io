@@ -1,0 +1,28 @@
+body{
+	background-color:black;
+	margin: 0;
+	padding:0;
+}
+
+h1{
+	color: white;
+	font-family: Arial;
+	font-size:100px; 
+}
+h2{
+	color:white;
+	font-family: Arial;
+	font-size:80px; 
+}
+.icon{
+	font-size: 90px;
+	color:#ff006f;
+	margin-left: -25px;
+	margin-right: 5px;
+}
+.word{
+	font-family:"微软雅黑";
+	font-size: 30px;
+	color:white; 
+	margin-top:30px;
+}
